@@ -1,5 +1,5 @@
 <template>
-  <div id="TranslateOutput">
+  <div id="TranslateOutput" class="output">
       <h2>{translatedText}</h2>
   </div>
 </template>
